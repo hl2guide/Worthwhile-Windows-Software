@@ -5,7 +5,7 @@ A curated list of worthwhile Windows 11 software.
 - I recommend using either [Microsoft Windows Store](https://apps.microsoft.com/home) or [Steam Store](https://store.steampowered.com/software) options for easy updates to lower the hassle
 - I curate this list focusing on quality, fairness and usefulness
 
-## Internet Browser
+## Internet Browsing
 
 ### Brave
 
@@ -21,6 +21,40 @@ A curated list of worthwhile Windows 11 software.
 
 🪟 Microsoft Store: https://apps.microsoft.com/detail/XP8C9QZMS2PC1T
 
+## File Searching
+
+### Search Everything
+
+"Everything is a small and fast file locator that can index and search files and folders by name instantly. It has a simple and clean user interface, minimal resource usage, and real-time updating."
+
+💰 Price: Free
+
+✅ Official Site: https://www.voidtools.com/
+
+📖 Documentation: https://www.voidtools.com/support/everything/
+
+✍️ Author: David Carpenter
+
+🔽 Download: https://voidtools.com/downloads/
+
+## Weather Watching
+
+### FluentWeather
+
+"A weather app for Windows that is both functional and beautiful."
+
+💰 Price: Free
+
+✅ Official Site: https://github.com/Gabboxl/FluentWeather
+
+📖 Documentation: https://obsproject.com/kb/
+
+📝 GitHub Repo: https://github.com/Gabboxl/FluentWeather
+
+✍️ Author: https://github.com/Gabboxl
+
+🪟 Microsoft Store: https://apps.microsoft.com/detail/9PFD136M8457
+
 ## Video Recording and Live Streaming
 
 ### OBS Studio
@@ -34,6 +68,8 @@ A curated list of worthwhile Windows 11 software.
 📖 Documentation: https://obsproject.com/kb/
 
 📝 GitHub Repo: https://github.com/obsproject/obs-studio
+
+✍️ Author: https://github.com/obsproject/obs-studio/graphs/contributors
 
 🪟 Microsoft Store: https://apps.microsoft.com/detail/XPFFH613W8V6LV
 
