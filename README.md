@@ -21,6 +21,20 @@ A curated list of worthwhile Windows 11 software.
 
 🪟 Microsoft Store: https://apps.microsoft.com/detail/XP8C9QZMS2PC1T
 
+### Firefox
+
+"A free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation."
+
+💰 Price: Free
+
+✅ Official Site: https://www.mozilla.org/en-US/firefox/new/
+
+📖 Documentation: https://support.mozilla.org/en-US/products/firefox
+
+✍️ Author: Mozilla
+
+🪟 Microsoft Store: https://apps.microsoft.com/detail/9NZVDKPMR9RD
+
 ## File Searching
 
 ### Search Everything
