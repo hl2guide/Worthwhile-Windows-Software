@@ -53,6 +53,24 @@ A curated list of worthwhile Windows 11 software.
 
 🔽 Download: https://voidtools.com/downloads/
 
+## File Archiving
+
+### NanaZip
+
+"A 7-Zip derivative intended for the modern Windows experience."
+
+💰 Price: Free
+
+✅ Official Site: https://sourceforge.net/projects/nanazip/
+
+📖 Documentation: None
+
+📝 GitHub Repo: https://github.com/M2Team/NanaZip
+
+✍️ Author: Kenji Mouri
+
+🪟 Microsoft Store: https://apps.microsoft.com/detail/9N8G7TSCL18R
+
 ## Multimedia Watching
 
 ### Media Player Classic (mpc-hc)
