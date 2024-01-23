@@ -5,7 +5,7 @@ A curated list of worthwhile Windows 11 software.
 - I recommend using either [Microsoft Windows Store](https://apps.microsoft.com/home) or [Steam Store](https://store.steampowered.com/software) options for easy updates to lower the hassle
 - I curate this list focusing on quality, fairness and usefulness
 
-## Internet Browsing
+## 🌏 Internet Browsing
 
 ### Brave
 
@@ -37,7 +37,7 @@ A curated list of worthwhile Windows 11 software.
 
 🪟 Microsoft Store: https://apps.microsoft.com/detail/9NZVDKPMR9RD
 
-## File Searching
+## 🔍 File Searching
 
 ### Search Everything
 
@@ -53,7 +53,7 @@ A curated list of worthwhile Windows 11 software.
 
 🔽 Download: https://voidtools.com/downloads/
 
-## File Archiving
+## 🗃️ File Archiving
 
 ### NanaZip
 
@@ -71,7 +71,7 @@ A curated list of worthwhile Windows 11 software.
 
 🪟 Microsoft Store: https://apps.microsoft.com/detail/9N8G7TSCL18R
 
-## Multimedia Watching
+## 📽️ Multimedia Watching
 
 ### Media Player Classic (mpc-hc)
 
@@ -89,7 +89,7 @@ A curated list of worthwhile Windows 11 software.
 
 🔽 Download: https://github.com/clsid2/mpc-hc/releases
 
-## Weather Watching
+## 🌤️ Weather Watching
 
 ### FluentWeather
 
@@ -107,7 +107,7 @@ A curated list of worthwhile Windows 11 software.
 
 🪟 Microsoft Store: https://apps.microsoft.com/detail/9PFD136M8457
 
-## Video Recording and Live Streaming
+## 🔴 Video Recording and Live Streaming
 
 ### OBS Studio
 
