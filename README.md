@@ -11,6 +11,8 @@ A curated list of worthwhile Windows 11 software.
 
 "Brave is a browser that blocks privacy-invasive ads and trackers by default, protects your online privacy."
 
+💰 Price: Free
+
 ✅ Official Site: https://brave.com/
 
 📖 Documentation: https://support.brave.com
