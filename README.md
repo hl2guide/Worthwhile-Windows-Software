@@ -14,11 +14,9 @@ A curated list of worthwhile Windows 11 software.
 
 📝 GitHub Repo: https://github.com/obsproject/obs-studio
 
+🪟 Microsoft Store:
+[ms-windows-store://pdp/?ProductId=XPFFH613W8V6LV&mode=mini](ms-windows-store://pdp/?ProductId=XPFFH613W8V6LV&mode=mini)
 
-
-Microsoft Store:
-ms-windows-store://pdp/?ProductId=XPFFH613W8V6LV&mode=mini
-
-Steam Store:
+🚂 Steam Store:
 https://store.steampowered.com/app/1905180/OBS_Studio/
 
