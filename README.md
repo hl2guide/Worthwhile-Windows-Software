@@ -13,13 +13,11 @@ A curated list of worthwhile Windows 11 software.
 
 ✅ Official Site: https://brave.com/
 
-📖 Documentation: https://support.brave.com/hc/en-us
+📖 Documentation: https://support.brave.com
 
 📝 GitHub Repo: https://github.com/brave/brave-browser
 
 🪟 Microsoft Store: https://apps.microsoft.com/detail/XP8C9QZMS2PC1T
-
-🚂 Steam Store:
 
 ## Video Recording and Live Streaming
 
