@@ -8,6 +8,8 @@ A curated list of worthwhile Windows 11 software.
 
 ### OBS Studio
 
+"OBS Studio is a powerful and easy to use tool for creating professional productions with multiple sources, scenes, transitions, filters and plugins. Stream to Twitch, YouTube and other platforms or record your own videos with high quality H264 / AAC encoding."
+
 ✅ Official Site: https://obsproject.com
 
 📖 Documentation: https://obsproject.com/kb/
