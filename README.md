@@ -3,6 +3,7 @@ A curated list of worthwhile Windows 11 software.
 
 - Links are all to official sites and official partner sites
 - I recommend using either [Microsoft Windows Store](https://apps.microsoft.com/home) or [Steam Store](https://store.steampowered.com/software) options for easy updates to lower the hassle
+- I curate this list focusing on quality, fairness and usefulness
 
 ## Video Recording and Live Streaming
 
