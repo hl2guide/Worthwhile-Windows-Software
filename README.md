@@ -5,6 +5,22 @@ A curated list of worthwhile Windows 11 software.
 - I recommend using either [Microsoft Windows Store](https://apps.microsoft.com/home) or [Steam Store](https://store.steampowered.com/software) options for easy updates to lower the hassle
 - I curate this list focusing on quality, fairness and usefulness
 
+## Internet Browser
+
+### Brave
+
+"Brave is a browser that blocks privacy-invasive ads and trackers by default, protects your online privacy."
+
+✅ Official Site: https://brave.com/
+
+📖 Documentation: https://support.brave.com/hc/en-us
+
+📝 GitHub Repo: https://github.com/brave/brave-browser
+
+🪟 Microsoft Store: https://apps.microsoft.com/detail/XP8C9QZMS2PC1T
+
+🚂 Steam Store:
+
 ## Video Recording and Live Streaming
 
 ### OBS Studio
@@ -19,9 +35,7 @@ A curated list of worthwhile Windows 11 software.
 
 📝 GitHub Repo: https://github.com/obsproject/obs-studio
 
-🪟 Microsoft Store:
-https://apps.microsoft.com/detail/XPFFH613W8V6LV
+🪟 Microsoft Store: https://apps.microsoft.com/detail/XPFFH613W8V6LV
 
-🚂 Steam Store:
-https://store.steampowered.com/app/1905180/OBS_Studio/
+🚂 Steam Store: https://store.steampowered.com/app/1905180/OBS_Studio/
 
