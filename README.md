@@ -17,6 +17,8 @@ A curated list of worthwhile Windows 11 software.
 
 📖 Documentation: https://support.brave.com
 
+✍️ Author: Brave
+
 📝 GitHub Repo: https://github.com/brave/brave-browser
 
 🪟 Microsoft Store: https://apps.microsoft.com/detail/XP8C9QZMS2PC1T
@@ -50,6 +52,24 @@ A curated list of worthwhile Windows 11 software.
 ✍️ Author: David Carpenter
 
 🔽 Download: https://voidtools.com/downloads/
+
+## Multimedia Watching
+
+### Media Player Classic (mpc-hc)
+
+"A free and open-source, compact, lightweight, and customizable media player."
+
+💰 Price: Free
+
+✅ Official Site: https://github.com/clsid2/mpc-hc
+
+📖 Documentation: None
+
+📝 GitHub Repo: https://github.com/clsid2/mpc-hc
+
+✍️ Author: https://github.com/clsid2
+
+🔽 Download: https://github.com/clsid2/mpc-hc/releases
 
 ## Weather Watching
 
